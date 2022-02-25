@@ -5,22 +5,13 @@ Trabalho Final de Laboratório Programação de Computadores 2
 
 Primeiro trabalho feito durante o 2º período na matéria de `Laboratório de Programação de Computadores 2 do curso de Engenharia da Computação no CEFET-MG Campus Divinópolis`. Trabalho feito utilizando POO(Programação Orientada a Objetos) e listas encadeadas.
 
-## Diagrama de classe 
-
-![Imgur](https://i.imgur.com/tjbFkOz.jpg)
-
 ## Observações
 
-1. Cadastrar um Cliente;
-2. Excluir cliente;
-3. Cadastrar um vendedor;
-4. Excluir vendedor;
-5. Realizar um pedido;
-6. Excluir pedido;
-7. Imprimir lista de clientes;
-8. Imprimir pedidos de um determinado cliente;
-9. Imprimir lista de vendedores;
-10. Imprimir pedidos efetivados por um determinado vendedor.
+O main deve permitir ao usuário realizar as seguintes operações:
+1.	Cadastrar um caminhão
+2.	Cadastrar um carro
+3.	Imprimir todos os carros e caminhões cadastrados
+4.	Localizar um veiculo pelo nome do seu proprietário e imprimir os dados do veiculo.
 
 ## Sobre o Programa
 
